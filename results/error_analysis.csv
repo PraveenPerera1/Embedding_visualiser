@@ -1,0 +1,11 @@
+method,stage,headline,actual,predicted,nearest_training_headline,similarity,explanation
+MiniLM,held-out test,Shigeru Ban Named Pritzker Laureate 2014,Entertainment,Health,Germ-killing ingredient banned,0.2766464,
+TF-IDF,held-out test,HP to invest over $1-billion in open-source cloud computing,Science and Technology,Business,HP settlement still needs court approval,0.179764,
+TF-IDF,held-out test,MakerBot Enters Reselling Agreement with Panama Anantek,Science and Technology,Business,"Argentina fails to reach debt agreement, default imminent",0.23738173,
+TF-IDF,held-out test,Earth struck by powerful asteroids at least twice a year,Science and Technology,Business,Alibaba isn't going global—at least not yet,0.26514485,
+MiniLM,held-out test,NBCU CEO Steve Burke: Jay Leno or Tina Fey Contractually Free to Go to CBS  ...,Entertainment,Business,"CBS Profit Up On Higher Licensing, Pay TV Revenue",0.45805258,
+TF-IDF,held-out test,"US Factories Expand, Construction Spending Inches Up",Business,Science and Technology,Spotify tipped to expand presence with carrier partnership,0.21789241,
+TF-IDF,held-out test,BLOGS OF THE DAY: Robin Williams to return as 'Mrs Doubtfire',Entertainment,Science and Technology,The Talker: 'Cosmos' makes its return,0.2604394,
+TF-IDF,held-out test,Audi to also offer Apple's CarPlay on its models,Science and Technology,Business,Audi Expects To Sell Half Million Cars In China This Year,0.26149228,
+TF-IDF,held-out test,BBM Chats Just Got More Fun with the Introduction of Stickers,Science and Technology,Entertainment,Fun with fireworks,0.38788497,
+MiniLM,held-out test,LGBT concerns grow as Brunei implements Sharia law,Entertainment,Health,Why Focus On LGBT Issues When That Affects Less Than 3 Percent Of  ...,0.48156217,
